@@ -1,0 +1,10 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Fahrenheit To Reamur\Fahrenheit To Reamur\bin\Debug\Fahrenheit To Reamur.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Fahrenheit To Reamur\Fahrenheit To Reamur\bin\Debug\Fahrenheit To Reamur.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Fahrenheit To Reamur\Fahrenheit To Reamur\bin\Debug\Fahrenheit To Reamur.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Fahrenheit To Reamur\Fahrenheit To Reamur\bin\Debug\Fahrenheit To Reamur.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Fahrenheit To Reamur\Fahrenheit To Reamur\obj\Debug\Fahrenheit_To_Reamur.FahrenheitToReamur.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Fahrenheit To Reamur\Fahrenheit To Reamur\obj\Debug\Fahrenheit_To_Reamur.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Fahrenheit To Reamur\Fahrenheit To Reamur\obj\Debug\Fahrenheit To Reamur.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Fahrenheit To Reamur\Fahrenheit To Reamur\obj\Debug\Fahrenheit To Reamur.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Fahrenheit To Reamur\Fahrenheit To Reamur\obj\Debug\Fahrenheit To Reamur.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Fahrenheit To Reamur\Fahrenheit To Reamur\obj\Debug\Fahrenheit To Reamur.pdb
