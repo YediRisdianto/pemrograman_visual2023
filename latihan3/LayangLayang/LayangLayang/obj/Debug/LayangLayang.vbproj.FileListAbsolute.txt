@@ -1,0 +1,10 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\LayangLayang\LayangLayang\bin\Debug\LayangLayang.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\LayangLayang\LayangLayang\bin\Debug\LayangLayang.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\LayangLayang\LayangLayang\bin\Debug\LayangLayang.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\LayangLayang\LayangLayang\bin\Debug\LayangLayang.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\LayangLayang\LayangLayang\obj\Debug\LayangLayang.Form1.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\LayangLayang\LayangLayang\obj\Debug\LayangLayang.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\LayangLayang\LayangLayang\obj\Debug\LayangLayang.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\LayangLayang\LayangLayang\obj\Debug\LayangLayang.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\LayangLayang\LayangLayang\obj\Debug\LayangLayang.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\LayangLayang\LayangLayang\obj\Debug\LayangLayang.pdb
