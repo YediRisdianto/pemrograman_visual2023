@@ -1,0 +1,10 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Tabung\Tabung\bin\Debug\Tabung.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Tabung\Tabung\obj\Debug\Tabung.Tabung.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Tabung\Tabung\obj\Debug\Tabung.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Tabung\Tabung\obj\Debug\Tabung.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Tabung\Tabung\bin\Debug\Tabung.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Tabung\Tabung\bin\Debug\Tabung.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Tabung\Tabung\bin\Debug\Tabung.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Tabung\Tabung\obj\Debug\Tabung.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Tabung\Tabung\obj\Debug\Tabung.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Tabung\Tabung\obj\Debug\Tabung.pdb
