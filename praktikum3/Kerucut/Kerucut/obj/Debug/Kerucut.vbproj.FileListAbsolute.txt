@@ -1,0 +1,10 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Kerucut\Kerucut\bin\Debug\Kerucut.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Kerucut\Kerucut\bin\Debug\Kerucut.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Kerucut\Kerucut\bin\Debug\Kerucut.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Kerucut\Kerucut\bin\Debug\Kerucut.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Kerucut\Kerucut\obj\Debug\Kerucut.Kerucut.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Kerucut\Kerucut\obj\Debug\Kerucut.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Kerucut\Kerucut\obj\Debug\Kerucut.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Kerucut\Kerucut\obj\Debug\Kerucut.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Kerucut\Kerucut\obj\Debug\Kerucut.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Kerucut\Kerucut\obj\Debug\Kerucut.pdb
