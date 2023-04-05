@@ -1,0 +1,11 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Segitiga\Segitiga\bin\Debug\Segitiga.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Segitiga\Segitiga\bin\Debug\Segitiga.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Segitiga\Segitiga\bin\Debug\Segitiga.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Segitiga\Segitiga\bin\Debug\Segitiga.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Segitiga\Segitiga\obj\Debug\Segitiga.vbprojResolveAssemblyReference.cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Segitiga\Segitiga\obj\Debug\Segitiga.FormSegitiga.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Segitiga\Segitiga\obj\Debug\Segitiga.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Segitiga\Segitiga\obj\Debug\Segitiga.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Segitiga\Segitiga\obj\Debug\Segitiga.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Segitiga\Segitiga\obj\Debug\Segitiga.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Segitiga\Segitiga\obj\Debug\Segitiga.pdb
