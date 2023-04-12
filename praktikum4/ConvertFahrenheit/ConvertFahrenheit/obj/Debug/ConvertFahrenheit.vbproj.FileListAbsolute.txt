@@ -1,0 +1,10 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\praktikum4\ConvertFahrenheit\ConvertFahrenheit\bin\Debug\ConvertFahrenheit.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\praktikum4\ConvertFahrenheit\ConvertFahrenheit\bin\Debug\ConvertFahrenheit.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\praktikum4\ConvertFahrenheit\ConvertFahrenheit\bin\Debug\ConvertFahrenheit.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\praktikum4\ConvertFahrenheit\ConvertFahrenheit\bin\Debug\ConvertFahrenheit.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\praktikum4\ConvertFahrenheit\ConvertFahrenheit\obj\Debug\ConvertFahrenheit.Form1.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\praktikum4\ConvertFahrenheit\ConvertFahrenheit\obj\Debug\ConvertFahrenheit.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\praktikum4\ConvertFahrenheit\ConvertFahrenheit\obj\Debug\ConvertFahrenheit.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\praktikum4\ConvertFahrenheit\ConvertFahrenheit\obj\Debug\ConvertFahrenheit.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\praktikum4\ConvertFahrenheit\ConvertFahrenheit\obj\Debug\ConvertFahrenheit.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\praktikum4\ConvertFahrenheit\ConvertFahrenheit\obj\Debug\ConvertFahrenheit.pdb
