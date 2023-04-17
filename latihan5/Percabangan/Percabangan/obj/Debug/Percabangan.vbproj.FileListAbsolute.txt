@@ -1,0 +1,13 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\latihan5\Percabangan\Percabangan\bin\Debug\Percabangan.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\latihan5\Percabangan\Percabangan\bin\Debug\Percabangan.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\latihan5\Percabangan\Percabangan\bin\Debug\Percabangan.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\latihan5\Percabangan\Percabangan\bin\Debug\Percabangan.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\latihan5\Percabangan\Percabangan\obj\Debug\Percabangan.vbprojResolveAssemblyReference.cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\latihan5\Percabangan\Percabangan\obj\Debug\Percabangan.Form1.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\latihan5\Percabangan\Percabangan\obj\Debug\Percabangan.Form2.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\latihan5\Percabangan\Percabangan\obj\Debug\Percabangan.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\latihan5\Percabangan\Percabangan\obj\Debug\Percabangan.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\latihan5\Percabangan\Percabangan\obj\Debug\Percabangan.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\latihan5\Percabangan\Percabangan\obj\Debug\Percabangan.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\latihan5\Percabangan\Percabangan\obj\Debug\Percabangan.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\latihan5\Percabangan\Percabangan\obj\Debug\Percabangan.Form3.resources
