@@ -1,0 +1,11 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganCase\PercabanganCase\bin\Debug\PercabanganCase.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganCase\PercabanganCase\bin\Debug\PercabanganCase.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganCase\PercabanganCase\bin\Debug\PercabanganCase.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganCase\PercabanganCase\bin\Debug\PercabanganCase.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganCase\PercabanganCase\obj\Debug\PercabanganCase.Form1.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganCase\PercabanganCase\obj\Debug\PercabanganCase.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganCase\PercabanganCase\obj\Debug\PercabanganCase.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganCase\PercabanganCase\obj\Debug\PercabanganCase.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganCase\PercabanganCase\obj\Debug\PercabanganCase.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganCase\PercabanganCase\obj\Debug\PercabanganCase.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganCase\PercabanganCase\obj\Debug\PercabanganCase.Form2.resources

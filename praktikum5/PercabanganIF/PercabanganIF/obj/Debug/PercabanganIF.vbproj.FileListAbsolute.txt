@@ -1,0 +1,12 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganIF\PercabanganIF\bin\Debug\PercabanganIF.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganIF\PercabanganIF\bin\Debug\PercabanganIF.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganIF\PercabanganIF\bin\Debug\PercabanganIF.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganIF\PercabanganIF\bin\Debug\PercabanganIF.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganIF\PercabanganIF\obj\Debug\PercabanganIF.vbprojResolveAssemblyReference.cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganIF\PercabanganIF\obj\Debug\PercabanganIF.Form1.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganIF\PercabanganIF\obj\Debug\PercabanganIF.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganIF\PercabanganIF\obj\Debug\PercabanganIF.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganIF\PercabanganIF\obj\Debug\PercabanganIF.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganIF\PercabanganIF\obj\Debug\PercabanganIF.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganIF\PercabanganIF\obj\Debug\PercabanganIF.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\praktikum5\PercabanganIF\PercabanganIF\obj\Debug\PercabanganIF.Form2.resources
