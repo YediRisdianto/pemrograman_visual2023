@@ -1,0 +1,11 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\radiobutton\radiobutton\bin\Debug\radiobutton.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\radiobutton\radiobutton\bin\Debug\radiobutton.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\radiobutton\radiobutton\bin\Debug\radiobutton.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\radiobutton\radiobutton\bin\Debug\radiobutton.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\radiobutton\radiobutton\obj\Debug\radiobutton.vbprojResolveAssemblyReference.cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\radiobutton\radiobutton\obj\Debug\radiobutton.Form1.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\radiobutton\radiobutton\obj\Debug\radiobutton.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\radiobutton\radiobutton\obj\Debug\radiobutton.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\radiobutton\radiobutton\obj\Debug\radiobutton.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\radiobutton\radiobutton\obj\Debug\radiobutton.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\radiobutton\radiobutton\obj\Debug\radiobutton.pdb
