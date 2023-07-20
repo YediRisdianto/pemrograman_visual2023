@@ -1,0 +1,6 @@
+f0833870.xsph.ru
+
+Имя: f0833870_akademik
+Пользователь: f0833870_akademik
+Пароль: akademik
+Адрес хоста: localhost
