@@ -1,0 +1,11 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\tugas5\NilaiMutu\NilaiMutu\bin\Debug\NilaiMutu.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\tugas5\NilaiMutu\NilaiMutu\bin\Debug\NilaiMutu.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\tugas5\NilaiMutu\NilaiMutu\bin\Debug\NilaiMutu.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\tugas5\NilaiMutu\NilaiMutu\bin\Debug\NilaiMutu.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\tugas5\NilaiMutu\NilaiMutu\obj\Debug\NilaiMutu.vbprojResolveAssemblyReference.cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\tugas5\NilaiMutu\NilaiMutu\obj\Debug\NilaiMutu.Form1.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\tugas5\NilaiMutu\NilaiMutu\obj\Debug\NilaiMutu.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\tugas5\NilaiMutu\NilaiMutu\obj\Debug\NilaiMutu.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\tugas5\NilaiMutu\NilaiMutu\obj\Debug\NilaiMutu.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\tugas5\NilaiMutu\NilaiMutu\obj\Debug\NilaiMutu.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 5\tugas5\NilaiMutu\NilaiMutu\obj\Debug\NilaiMutu.pdb
