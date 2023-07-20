@@ -1,0 +1,11 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\latihan4\ConvertCelcius\ConvertCelcius\bin\Debug\ConvertCelcius.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\latihan4\ConvertCelcius\ConvertCelcius\bin\Debug\ConvertCelcius.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\latihan4\ConvertCelcius\ConvertCelcius\bin\Debug\ConvertCelcius.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\latihan4\ConvertCelcius\ConvertCelcius\bin\Debug\ConvertCelcius.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\latihan4\ConvertCelcius\ConvertCelcius\obj\Debug\ConvertCelcius.vbprojResolveAssemblyReference.cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\latihan4\ConvertCelcius\ConvertCelcius\obj\Debug\ConvertCelcius.FormCelcius.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\latihan4\ConvertCelcius\ConvertCelcius\obj\Debug\ConvertCelcius.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\latihan4\ConvertCelcius\ConvertCelcius\obj\Debug\ConvertCelcius.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\latihan4\ConvertCelcius\ConvertCelcius\obj\Debug\ConvertCelcius.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\latihan4\ConvertCelcius\ConvertCelcius\obj\Debug\ConvertCelcius.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\latihan4\ConvertCelcius\ConvertCelcius\obj\Debug\ConvertCelcius.pdb
