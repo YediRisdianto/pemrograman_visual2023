@@ -1,0 +1,13 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\MenuStrip\MenuStrip\bin\Debug\MenuStrip.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\MenuStrip\MenuStrip\bin\Debug\MenuStrip.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\MenuStrip\MenuStrip\bin\Debug\MenuStrip.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\MenuStrip\MenuStrip\bin\Debug\MenuStrip.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\MenuStrip\MenuStrip\obj\Debug\MenuStrip.vbprojResolveAssemblyReference.cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\MenuStrip\MenuStrip\obj\Debug\MenuStrip.Form1.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\MenuStrip\MenuStrip\obj\Debug\MenuStrip.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\MenuStrip\MenuStrip\obj\Debug\MenuStrip.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\MenuStrip\MenuStrip\obj\Debug\MenuStrip.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\MenuStrip\MenuStrip\obj\Debug\MenuStrip.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\MenuStrip\MenuStrip\obj\Debug\MenuStrip.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\MenuStrip\MenuStrip\obj\Debug\MenuStrip.Form2.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\MenuStrip\MenuStrip\obj\Debug\MenuStrip.Form3.resources

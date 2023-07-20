@@ -1,0 +1,13 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\multiform\multiform\bin\Debug\multiform.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\multiform\multiform\bin\Debug\multiform.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\multiform\multiform\bin\Debug\multiform.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\multiform\multiform\bin\Debug\multiform.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\multiform\multiform\obj\Debug\multiform.vbprojResolveAssemblyReference.cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\multiform\multiform\obj\Debug\multiform.Form1.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\multiform\multiform\obj\Debug\multiform.Form2.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\multiform\multiform\obj\Debug\multiform.Form3.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\multiform\multiform\obj\Debug\multiform.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\multiform\multiform\obj\Debug\multiform.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\multiform\multiform\obj\Debug\multiform.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\multiform\multiform\obj\Debug\multiform.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 7\multiform\multiform\obj\Debug\multiform.pdb
