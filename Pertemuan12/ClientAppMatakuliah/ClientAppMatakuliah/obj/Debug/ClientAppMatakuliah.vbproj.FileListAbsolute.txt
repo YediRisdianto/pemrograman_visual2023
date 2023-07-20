@@ -1,0 +1,14 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 10\ClientAppMatakuliah\ClientAppMatakuliah\bin\Debug\ClientAppMatakuliah.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 10\ClientAppMatakuliah\ClientAppMatakuliah\bin\Debug\ClientAppMatakuliah.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 10\ClientAppMatakuliah\ClientAppMatakuliah\bin\Debug\ClientAppMatakuliah.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 10\ClientAppMatakuliah\ClientAppMatakuliah\bin\Debug\ClientAppMatakuliah.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 10\ClientAppMatakuliah\ClientAppMatakuliah\bin\Debug\Newtonsoft.Json.dll
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 10\ClientAppMatakuliah\ClientAppMatakuliah\bin\Debug\Newtonsoft.Json.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 10\ClientAppMatakuliah\ClientAppMatakuliah\bin\Debug\Newtonsoft.Json.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 10\ClientAppMatakuliah\ClientAppMatakuliah\obj\Debug\ClientAppMatakuliah.vbprojResolveAssemblyReference.cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 10\ClientAppMatakuliah\ClientAppMatakuliah\obj\Debug\ClientAppMatakuliah.Form1.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 10\ClientAppMatakuliah\ClientAppMatakuliah\obj\Debug\ClientAppMatakuliah.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 10\ClientAppMatakuliah\ClientAppMatakuliah\obj\Debug\ClientAppMatakuliah.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 10\ClientAppMatakuliah\ClientAppMatakuliah\obj\Debug\ClientAppMatakuliah.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 10\ClientAppMatakuliah\ClientAppMatakuliah\obj\Debug\ClientAppMatakuliah.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 10\ClientAppMatakuliah\ClientAppMatakuliah\obj\Debug\ClientAppMatakuliah.pdb
