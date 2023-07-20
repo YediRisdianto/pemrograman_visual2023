@@ -1,0 +1,10 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Lingkaran\Lingkaran\bin\Debug\Lingkaran.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Lingkaran\Lingkaran\bin\Debug\Lingkaran.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Lingkaran\Lingkaran\bin\Debug\Lingkaran.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Lingkaran\Lingkaran\bin\Debug\Lingkaran.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.FormLingkaran.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.pdb

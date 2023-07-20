@@ -1,0 +1,11 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Belah Ketupat\Belah Ketupat\bin\Debug\Belah Ketupat.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Belah Ketupat\Belah Ketupat\bin\Debug\Belah Ketupat.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Belah Ketupat\Belah Ketupat\bin\Debug\Belah Ketupat.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Belah Ketupat\Belah Ketupat\bin\Debug\Belah Ketupat.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Belah Ketupat\Belah Ketupat\obj\Debug\Belah Ketupat.vbprojResolveAssemblyReference.cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Belah Ketupat\Belah Ketupat\obj\Debug\Belah_Ketupat.Form1.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Belah Ketupat\Belah Ketupat\obj\Debug\Belah_Ketupat.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Belah Ketupat\Belah Ketupat\obj\Debug\Belah Ketupat.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Belah Ketupat\Belah Ketupat\obj\Debug\Belah Ketupat.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Belah Ketupat\Belah Ketupat\obj\Debug\Belah Ketupat.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Belah Ketupat\Belah Ketupat\obj\Debug\Belah Ketupat.pdb
