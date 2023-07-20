@@ -1,0 +1,11 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Persegi\Persegi\bin\Debug\Persegi.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Persegi\Persegi\bin\Debug\Persegi.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Persegi\Persegi\bin\Debug\Persegi.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Persegi\Persegi\bin\Debug\Persegi.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Persegi\Persegi\obj\Debug\Persegi.vbprojResolveAssemblyReference.cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Persegi\Persegi\obj\Debug\Persegi.FormPersegi.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Persegi\Persegi\obj\Debug\Persegi.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Persegi\Persegi\obj\Debug\Persegi.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Persegi\Persegi\obj\Debug\Persegi.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Persegi\Persegi\obj\Debug\Persegi.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\latihan3\Persegi\Persegi\obj\Debug\Persegi.pdb
