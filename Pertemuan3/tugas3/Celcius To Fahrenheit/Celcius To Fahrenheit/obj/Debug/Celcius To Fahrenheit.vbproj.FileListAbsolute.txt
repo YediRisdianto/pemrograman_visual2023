@@ -1,0 +1,11 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Celcius To Fahrenheit\Celcius To Fahrenheit\bin\Debug\Celcius To Fahrenheit.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Celcius To Fahrenheit\Celcius To Fahrenheit\bin\Debug\Celcius To Fahrenheit.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Celcius To Fahrenheit\Celcius To Fahrenheit\bin\Debug\Celcius To Fahrenheit.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Celcius To Fahrenheit\Celcius To Fahrenheit\bin\Debug\Celcius To Fahrenheit.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Celcius To Fahrenheit\Celcius To Fahrenheit\obj\Debug\Celcius To Fahrenheit.vbprojResolveAssemblyReference.cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Celcius To Fahrenheit\Celcius To Fahrenheit\obj\Debug\Celcius_To_Fahrenheit.CelciusToFahrenheit.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Celcius To Fahrenheit\Celcius To Fahrenheit\obj\Debug\Celcius_To_Fahrenheit.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Celcius To Fahrenheit\Celcius To Fahrenheit\obj\Debug\Celcius To Fahrenheit.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Celcius To Fahrenheit\Celcius To Fahrenheit\obj\Debug\Celcius To Fahrenheit.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Celcius To Fahrenheit\Celcius To Fahrenheit\obj\Debug\Celcius To Fahrenheit.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Celcius To Fahrenheit\Celcius To Fahrenheit\obj\Debug\Celcius To Fahrenheit.pdb

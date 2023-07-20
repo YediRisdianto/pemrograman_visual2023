@@ -1,0 +1,10 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Reamur To Kelvin\Reamur To Kelvin\bin\Debug\Reamur To Kelvin.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Reamur To Kelvin\Reamur To Kelvin\bin\Debug\Reamur To Kelvin.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Reamur To Kelvin\Reamur To Kelvin\bin\Debug\Reamur To Kelvin.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Reamur To Kelvin\Reamur To Kelvin\bin\Debug\Reamur To Kelvin.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Reamur To Kelvin\Reamur To Kelvin\obj\Debug\Reamur_To_Kelvin.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Reamur To Kelvin\Reamur To Kelvin\obj\Debug\Reamur_To_Kelvin.ReamurToKelvin.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Reamur To Kelvin\Reamur To Kelvin\obj\Debug\Reamur To Kelvin.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Reamur To Kelvin\Reamur To Kelvin\obj\Debug\Reamur To Kelvin.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Reamur To Kelvin\Reamur To Kelvin\obj\Debug\Reamur To Kelvin.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\tugas3\Reamur To Kelvin\Reamur To Kelvin\obj\Debug\Reamur To Kelvin.pdb
