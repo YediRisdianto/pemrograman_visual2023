@@ -1,0 +1,16 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 9\Matakuliah\Matakuliah\bin\Debug\Matakuliah.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 9\Matakuliah\Matakuliah\bin\Debug\Matakuliah.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 9\Matakuliah\Matakuliah\bin\Debug\Matakuliah.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 9\Matakuliah\Matakuliah\bin\Debug\Matakuliah.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 9\Matakuliah\Matakuliah\bin\Debug\MySql.Data.dll
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 9\Matakuliah\Matakuliah\obj\Debug\Matakuliah.vbprojResolveAssemblyReference.cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 9\Matakuliah\Matakuliah\obj\Debug\Matakuliah.Form1.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 9\Matakuliah\Matakuliah\obj\Debug\Matakuliah.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 9\Matakuliah\Matakuliah\obj\Debug\Matakuliah.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 9\Matakuliah\Matakuliah\obj\Debug\Matakuliah.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 9\Matakuliah\Matakuliah\obj\Debug\Matakuliah.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 9\Matakuliah\Matakuliah\obj\Debug\Matakuliah.pdb
+C:\FILES\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 10\Matakuliah\Matakuliah\bin\Debug\Matakuliah.exe.config
+C:\FILES\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 10\Matakuliah\Matakuliah\obj\Debug\Matakuliah.exe
+C:\FILES\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 10\Matakuliah\Matakuliah\obj\Debug\Matakuliah.xml
+C:\FILES\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 10\Matakuliah\Matakuliah\obj\Debug\Matakuliah.pdb
