@@ -1,0 +1,10 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\tugas4\ConvertKelvin\ConvertKelvin\bin\Debug\ConvertKelvin.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\tugas4\ConvertKelvin\ConvertKelvin\bin\Debug\ConvertKelvin.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\tugas4\ConvertKelvin\ConvertKelvin\bin\Debug\ConvertKelvin.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\tugas4\ConvertKelvin\ConvertKelvin\bin\Debug\ConvertKelvin.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\tugas4\ConvertKelvin\ConvertKelvin\obj\Debug\ConvertKelvin.ConvertKelvin.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\tugas4\ConvertKelvin\ConvertKelvin\obj\Debug\ConvertKelvin.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\tugas4\ConvertKelvin\ConvertKelvin\obj\Debug\ConvertKelvin.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\tugas4\ConvertKelvin\ConvertKelvin\obj\Debug\ConvertKelvin.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\tugas4\ConvertKelvin\ConvertKelvin\obj\Debug\ConvertKelvin.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\tugas4\ConvertKelvin\ConvertKelvin\obj\Debug\ConvertKelvin.pdb

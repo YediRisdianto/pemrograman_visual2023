@@ -1,0 +1,10 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\tugas4\ConvertReamur\ConvertReamur\bin\Debug\ConvertReamur.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\tugas4\ConvertReamur\ConvertReamur\bin\Debug\ConvertReamur.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\tugas4\ConvertReamur\ConvertReamur\bin\Debug\ConvertReamur.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\tugas4\ConvertReamur\ConvertReamur\bin\Debug\ConvertReamur.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\tugas4\ConvertReamur\ConvertReamur\obj\Debug\ConvertReamur.ConvertReamur.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\tugas4\ConvertReamur\ConvertReamur\obj\Debug\ConvertReamur.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\tugas4\ConvertReamur\ConvertReamur\obj\Debug\ConvertReamur.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\tugas4\ConvertReamur\ConvertReamur\obj\Debug\ConvertReamur.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\tugas4\ConvertReamur\ConvertReamur\obj\Debug\ConvertReamur.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 4\tugas4\ConvertReamur\ConvertReamur\obj\Debug\ConvertReamur.pdb
