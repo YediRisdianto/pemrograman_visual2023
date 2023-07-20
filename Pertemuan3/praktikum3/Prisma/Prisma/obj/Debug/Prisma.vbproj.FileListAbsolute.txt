@@ -1,0 +1,11 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Prisma\Prisma\bin\Debug\Prisma.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Prisma\Prisma\bin\Debug\Prisma.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Prisma\Prisma\bin\Debug\Prisma.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Prisma\Prisma\bin\Debug\Prisma.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Prisma\Prisma\obj\Debug\Prisma.vbprojResolveAssemblyReference.cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Prisma\Prisma\obj\Debug\Prisma.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Prisma\Prisma\obj\Debug\Prisma.Prisma.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Prisma\Prisma\obj\Debug\Prisma.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Prisma\Prisma\obj\Debug\Prisma.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Prisma\Prisma\obj\Debug\Prisma.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Prisma\Prisma\obj\Debug\Prisma.pdb
