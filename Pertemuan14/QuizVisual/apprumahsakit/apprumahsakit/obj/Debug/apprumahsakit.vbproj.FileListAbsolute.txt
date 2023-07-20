@@ -1,0 +1,19 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\bin\Debug\Newtonsoft.Json.dll
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\bin\Debug\Newtonsoft.Json.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\bin\Debug\Newtonsoft.Json.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.vbprojResolveAssemblyReference.cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.Form1.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.Form2.resources
+C:\FILES\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 12\QuizVisual\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.exe.config
+C:\FILES\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 12\QuizVisual\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.exe
+C:\FILES\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 12\QuizVisual\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.xml
+C:\FILES\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 12\QuizVisual\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.pdb
