@@ -1,0 +1,10 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Bola\Bola\bin\Debug\Bola.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Bola\Bola\bin\Debug\Bola.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Bola\Bola\bin\Debug\Bola.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Bola\Bola\bin\Debug\Bola.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Bola\Bola\obj\Debug\Bola.Bola.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Bola\Bola\obj\Debug\Bola.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Bola\Bola\obj\Debug\Bola.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Bola\Bola\obj\Debug\Bola.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Bola\Bola\obj\Debug\Bola.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Bola\Bola\obj\Debug\Bola.pdb

@@ -1,0 +1,11 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Kubus\Kubus\bin\Debug\Kubus.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Kubus\Kubus\bin\Debug\Kubus.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Kubus\Kubus\bin\Debug\Kubus.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Kubus\Kubus\bin\Debug\Kubus.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Kubus\Kubus\obj\Debug\Kubus.vbprojResolveAssemblyReference.cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Kubus\Kubus\obj\Debug\Kubus.Kubus.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Kubus\Kubus\obj\Debug\Kubus.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Kubus\Kubus\obj\Debug\Kubus.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Kubus\Kubus\obj\Debug\Kubus.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Kubus\Kubus\obj\Debug\Kubus.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\Pertemuan 3\praktikum3\Kubus\Kubus\obj\Debug\Kubus.pdb
