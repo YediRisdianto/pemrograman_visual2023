@@ -1,0 +1,42 @@
+C:\Users\Freddy Wicaksono\AppData\Local\Temporary Projects\AppMultiLogin\bin\Debug\AppMultiLogin.exe.config
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppMultiLogin\AppMultiLogin\bin\Debug\AppMultiLogin.exe.config
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppMultiLogin\AppMultiLogin\bin\Debug\AppMultiLogin.exe
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppMultiLogin\AppMultiLogin\bin\Debug\AppMultiLogin.pdb
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppMultiLogin\AppMultiLogin\bin\Debug\AppMultiLogin.xml
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.vbprojResolveAssemblyReference.cache
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.Admin1.resources
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.Admin2.resources
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.Dosen1.resources
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.Dosen2.resources
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.Form1.resources
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.Mhs1.resources
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.Mhs2.resources
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.Resources.resources
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.vbproj.GenerateResource.Cache
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.exe
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.xml
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.pdb
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppMultiLogin\AppMultiLogin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppMultiLogin\AppMultiLogin\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppMultiLogin\AppMultiLogin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.Login.resources
+C:\xampp\htdocs\applogin\client\AppMultiLogin\AppMultiLogin\bin\Debug\AppMultiLogin.exe.config
+C:\xampp\htdocs\applogin\client\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.exe
+C:\xampp\htdocs\applogin\client\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.xml
+C:\xampp\htdocs\applogin\client\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.pdb
+C:\xampp\htdocs\applogin\client\AppMultiLogin\AppMultiLogin\bin\Debug\AppMultiLogin.exe
+C:\xampp\htdocs\applogin\client\AppMultiLogin\AppMultiLogin\bin\Debug\AppMultiLogin.pdb
+C:\xampp\htdocs\applogin\client\AppMultiLogin\AppMultiLogin\bin\Debug\AppMultiLogin.xml
+C:\xampp\htdocs\applogin\client\AppMultiLogin\AppMultiLogin\bin\Debug\Newtonsoft.Json.pdb
+C:\xampp\htdocs\applogin\client\AppMultiLogin\AppMultiLogin\bin\Debug\Newtonsoft.Json.xml
+C:\xampp\htdocs\applogin\client\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.vbprojResolveAssemblyReference.cache
+C:\xampp\htdocs\applogin\client\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.Admin1.resources
+C:\xampp\htdocs\applogin\client\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.Admin2.resources
+C:\xampp\htdocs\applogin\client\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.Dosen1.resources
+C:\xampp\htdocs\applogin\client\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.Dosen2.resources
+C:\xampp\htdocs\applogin\client\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.Form1.resources
+C:\xampp\htdocs\applogin\client\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.Login.resources
+C:\xampp\htdocs\applogin\client\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.Mhs1.resources
+C:\xampp\htdocs\applogin\client\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.Mhs2.resources
+C:\xampp\htdocs\applogin\client\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.Resources.resources
+C:\xampp\htdocs\applogin\client\AppMultiLogin\AppMultiLogin\obj\Debug\AppMultiLogin.vbproj.GenerateResource.Cache
