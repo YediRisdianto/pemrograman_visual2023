@@ -1,0 +1,11 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\checkbox\checkbox\bin\Debug\checkbox.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\checkbox\checkbox\bin\Debug\checkbox.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\checkbox\checkbox\bin\Debug\checkbox.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\checkbox\checkbox\bin\Debug\checkbox.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\checkbox\checkbox\obj\Debug\checkbox.vbprojResolveAssemblyReference.cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\checkbox\checkbox\obj\Debug\checkbox.Form1.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\checkbox\checkbox\obj\Debug\checkbox.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\checkbox\checkbox\obj\Debug\checkbox.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\checkbox\checkbox\obj\Debug\checkbox.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\checkbox\checkbox\obj\Debug\checkbox.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\pertemuan 6\tugas6\checkbox\checkbox\obj\Debug\checkbox.pdb
